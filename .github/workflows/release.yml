@@ -3,7 +3,7 @@ name: Build Release Shared Library
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-release:
